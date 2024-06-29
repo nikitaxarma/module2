@@ -4,7 +4,7 @@ Welcome to the MetaCraft ATM, a decentralized banking interface built with React
 
 #Features
 
-Connect Wallet: Connect your MetaMask wallet to the DApp.
+Connect Wallet: Connect your MetaMask wallet.
 
 View Balance: Check your account balance.
 
